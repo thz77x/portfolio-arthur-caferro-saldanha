@@ -37,7 +37,7 @@ Atualmente, estou cursando o primeiro período de Análise e Desenvolvimento de 
 #### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| *Nome do projeto* | Documento de Requisitos, Modelagem ER e ScriptsSQL. | [Ver Projeto](./projeto-banco-dados/) |
+| *Nome do projeto* | Documento de Requisitos, Modelagem DER e ScriptsSQL. | [Ver Projeto](./projeto-banco-dados/) |
 
 ## Estrutura do Repositório
 
