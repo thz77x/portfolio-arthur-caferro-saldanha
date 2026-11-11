@@ -28,7 +28,7 @@ Atualmente, estou cursando o primeiro período de Análise e Desenvolvimento de 
 
 | Projeto | Descrição | Link |
 |---|---|---|
-| **Páginas em HTML (AT1)** | Site de 5 páginas sobre NieR: Automata, desenvolvido com HTML5 e CSS3. | [Ver projeto](https://thz77x.github.io/Automata/) |
+| **Páginas em HTML (AT1)** | Site de 5 páginas sobre NieR: Automata, desenvolvido com HTML5 e CSS3. | [Ver projeto](https://github.com/thz77x/Automata) |
 | **Deploy de Site (AT2)** | Publicação do site da AT1 no GitHub Pages. | [Ver projeto](https://thz77x.github.io/X0/index.html) |
 | **Calculadora de IMC (AT3)** | Calculadora de IMC desenvolvida com HTML, CSS e JavaScript. | [Ver projeto](https://thz77x.github.io/Calculadora-imc/) |
 | **Site com Bootstrap (AT4)** | Site multipáginas PixelRealm 2, desenvolvido com Bootstrap 5. | [Ver projeto](https://thz77x.github.io/pixelrealm2/) |
