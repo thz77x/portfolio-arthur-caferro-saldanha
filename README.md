@@ -14,7 +14,7 @@
 Atualmente, estou cursando o primeiro período de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID). Tenho interesse em atuar na área de desenvolvimento Front-End e desejo aprofundar meus conhecimentos em Python, HTML, CSS e JavaScript, buscando aprimorar minhas habilidades e ampliar minha experiência na área de tecnologia.
 
 - **Habilidades técnicas:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) e ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54).
-- **Habilidades socioemocionais:** Trabalho em equipe, comunicação, proatividade e interesse em aprender novas áreas e linguagens.
+- **Habilidades socioemocionais:** Facilidade para trabalhar em equipe, boa comunicação, proatividade, capacidade de adaptação e disposição para aprender novas tecnologias e desenvolver conhecimentos em diferentes áreas.
 - **Experiências e projetos relevantes:** projetos acadêmicos de criação de sites, interfaces web e aplicações com JavaScript.
 
 ## Ferramentas
@@ -33,6 +33,11 @@ Atualmente, estou cursando o primeiro período de Análise e Desenvolvimento de 
 | **Calculadora de IMC (AT3)** | Calculadora de IMC desenvolvida com HTML, CSS e JavaScript. | [Ver projeto](https://thz77x.github.io/Calculadora-imc/) |
 | **Site com Bootstrap (AT4)** | Site multipáginas PixelRealm 2, desenvolvido com Bootstrap 5. | [Ver projeto](https://thz77x.github.io/pixelrealm2/) |
 | **Front-End com IA (AT5)** | Site “A Armadilha do Propósito”, desenvolvido em dupla e copilotado com IA. | [Ver projeto](https://thz77x.github.io/Entrega-duplas/) |
+
+#### 🗃️ Modelagem de Banco de Dados
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| *Nome do projeto* | Documento de Requisitos, Modelagem ER e ScriptsSQL. | [Ver Projeto](./projeto-banco-dados/) |
 
 ## Estrutura do Repositório
 
