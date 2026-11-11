@@ -4,7 +4,7 @@
 
 ## Contato e Redes Sociais
 
-- **E-mail:** thrz77x@gmail.com
+- **E-mail:** [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:thrz77x@gmail.com)
 - **GitHub:** [github.com/thz77x](https://github.com/thz77x)
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thz77x)
 
