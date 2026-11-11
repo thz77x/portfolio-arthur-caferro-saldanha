@@ -27,5 +27,6 @@ A participação de ferramentas de IA nesta atividade não foi confirmada nesta 
 
 [ Clique para acessar ](https://thz77x.github.io/Automata/)
 
+O deploy foi realizado durante a Atividade 2, pois a entrega exigia o link da aplicação publicada. Conforme solicitado pelo professor, o link do GitHub Pages foi inserido na pasta correspondente à atividade, substituindo o link da Atividade 1 pelo endereço do repositório do site desenvolvido.
 ---
 [Voltar ao início](https://github.com/thz77x/portfolio-arthur-caferro-saldanha)
