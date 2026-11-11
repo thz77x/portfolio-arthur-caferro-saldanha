@@ -18,7 +18,7 @@ Atualmente, estou cursando o primeiro período de Análise e Desenvolvimento de 
 ## Ferramentas
 
 - **Linguagens e tecnologias:** HTML5, CSS3, JavaScript e Bootstrap 5.
-- **Ferramentas:** VS Code, Git, GitHub e GitHub Pages.
+- **Ferramentas:** ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white), ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white), GitHub e GitHub Pages.
 
 ## Portfólio de Projetos
 
