@@ -12,8 +12,8 @@
 
 Atualmente, estou cursando o primeiro período de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID). Tenho interesse em atuar na área de desenvolvimento Front-End e desejo aprofundar meus conhecimentos em Python, HTML, CSS e JavaScript, buscando aprimorar minhas habilidades e ampliar minha experiência na área de tecnologia.
 
-- **Habilidades técnicas:** HTML5, CSS3, JavaScript e Python.
-- **Habilidades socioemocionais:** organização, comunicação, responsabilidade e vontade de aprender.
+- **Habilidades técnicas:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) e ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54).
+- **Habilidades socioemocionais:** Trabalho em equipe, comunicação, proatividade e interesse em aprender novas áreas e linguagens.
 - **Experiências e projetos relevantes:** projetos acadêmicos de criação de sites, interfaces web e aplicações com JavaScript.
 
 ## Ferramentas
