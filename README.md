@@ -6,6 +6,7 @@
 
 - **E-mail:** thrz77x@gmail.com
 - **GitHub:** [github.com/thz77x](https://github.com/thz77x)
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/SEUUSERNAME](https://github.com/thz77x))
 
 ## Sobre
 
