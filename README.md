@@ -4,6 +4,7 @@
 
 ## Contato e Redes Sociais
 
+- **LinkedIn:** não informado
 - **E-mail:** thrz77x@gmail.com
 - **GitHub:** [github.com/thz77x](https://github.com/thz77x)
 

@@ -1,0 +1,54 @@
+body{
+    background-color: #222527; 
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #e1e1e6;
+}
+
+.navbar{
+    background-color:#4c4d4e !important;
+    color: #e1e1e6;
+}
+
+footer{
+    border-top: 1px solid bisque;
+}
+
+h1, h2{
+    font-weight:500;
+}
+.card-img-top{
+    height: 220px;
+    width: 100%;
+    object-fit: contain;
+    object-position:center;
+}
+.carousel-item img{
+    height: 480px;
+    width:100%;
+    object-fit:contain;
+    object-position:center;
+}
+.img-fluid{
+    width: 100%;
+    object-fit:contain;
+    object-position:center;
+}
+.carousel-item{
+    background-color:#121214;
+}
+.carousel-caption h5, .carousel-caption p{
+    text-shadow: 2px 2px 6px rgba(0,0,0,0.85);
+}
+.carousel-caption{
+    background-color: rgba(0,0,0,0.5);
+    border-radius: 10px;
+    padding: 15px 20px;
+    bottom: 20px;
+}
+.navbar .navbar-brand, .navbar .nav-link {
+    color: #ffffff !important;
+}
+
+.navbar .nav-link:hover {
+    color: #0d6efd !important;
+}

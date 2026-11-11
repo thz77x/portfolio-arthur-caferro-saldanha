@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galeria | PixelRealm 2</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="index.html">PixelRealm 2</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Início</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="sobre.html">Sobre</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="galeria.html">Galeria</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="dados.html">Dados</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="contato.html">Contato</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <main>
+        <div class="container my-5">
+            <div class="row g-4">
+                <div class="col-12 col-md-4">
+                    <div class="card h-100">
+                        <img src="image/atari.png" class="card-img-top" alt="Console Atari 2600">
+                        <div class="card-body text-start">
+                            <h5 class="card-title">Console Atari 2600</h5>
+                            <p class="card-text">Levou os cartuchos para dentro de casa.</p>
+                            <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modalAtari">Saiba
+                                mais</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-4">
+                    <div class="card h-100">
+                        <img src="image/pacman2.png" class="card-img-top" alt="Jogo Pac-Man">
+                        <div class="card-body text-start">
+                            <h5 class="card-title">Pac-Man</h5>
+                            <p class="card-text">Lançado em 1980, virou o grande ícone dos fliperamas.</p>
+                            <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modalPacman">Saiba
+                                mais</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-4">
+                    <div class="card h-100">
+                        <img src="image/mario.png" class="card-img-top" alt="Jogo Super Mario Bros">
+                        <div class="card-body text-start">
+                            <h5 class="card-title">Super Mario Bros</h5>
+                            <p class="card-text">Ajudou o NES a recuperar o mercado depois da crise.</p>
+                            <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modalMario">Saiba
+                                mais</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-4">
+                    <div class="card h-100">
+                        <img src="image/megadrive2.png" class="card-img-top" alt="Console Mega Drive">
+                        <div class="card-body text-start">
+                            <h5 class="card-title">Mega Drive</h5>
+                            <p class="card-text">Principal rival da Nintendo, famoso por Sonic.</p>
+                            <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modalMegaDrive">Saiba
+                                mais</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-4">
+                    <div class="card h-100">
+                        <img src="image/playstation.png" class="card-img-top" alt="Console PlayStation 1">
+                        <div class="card-body text-start">
+                            <h5 class="card-title">PlayStation 1</h5>
+                            <p class="card-text">Lançado em 1994, popularizou os jogos em 3D e o uso de CDs nos
+                                consoles.</p>
+                            <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modalPs1">Saiba
+                                mais</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-4">
+                    <div class="card h-100">
+                        <img src="image/sony2.png" class="card-img-top" alt="Console PlayStation 5">
+                        <div class="card-body text-start">
+                            <h5 class="card-title">PlayStation 5</h5>
+                            <p class="card-text">O console mais recente da Sony, com tecnologia avançada e desempenho
+                                excepcional.</p>
+                            <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modalPs5">Saiba
+                                mais</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal fade" id="modalAtari" tabindex="-1" aria-labelledby="modalAtariLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title text-black" id="modalAtariLabel">Console Atari 2600</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+                    </div>
+                    <div class="modal-body text-black">
+                        O Atari 2600 foi lançado em 1977 pela Atari, Inc.
+                        <p>Ele popularizou os cartuchos intercambiáveis e trouxe para dentro das casas brasileiras e mundiais as grandes sensações que antes só podiam ser jogadas nos fliperamas.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="modalPacman" tabindex="-1" aria-labelledby="modalPacmanLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title text-black" id="modalPacmanLabel">Jogo Pac-Man</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+                    </div>
+                    <div class="modal-body text-black">
+                        O Pac-Man foi lançado em 1980 pela Bandai Namco.
+                        <p>Foi criado pelo designer Toru Iwatani, e a história conta que o formato icônico do personagem foi inspirado na imagem de uma pizza com uma fatia faltando.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="modalMario" tabindex="-1" aria-labelledby="modalMarioLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title text-black" id="modalMarioLabel">Jogo Super Mario Bros.</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+                    </div>
+                    <div class="modal-body text-black">
+                        O Super Mario Bros. foi lançado em 1985 pela Nintendo.
+                        <p>Criado por Shigeru Miyamoto, o jogo acompanhava o NES e se tornou o grande embaixador da reconstrução da indústria dos videogames, virando o símbolo oficial da Nintendo.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="modalMegaDrive" tabindex="-1" aria-labelledby="modalMegaDriveLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title text-black" id="modalMegaDriveLabel">Console Mega Drive</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+                    </div>
+                    <div class="modal-body text-black">
+                        O Mega Drive foi lançado em 1988 pela Sega.
+                        <p>Na América do Norte ele foi batizado como Sega Genesis, e foi o console responsável por apresentar o Sonic ao mundo, competindo diretamente com a Nintendo nos anos 90.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="modalPs1" tabindex="-1" aria-labelledby="modalPs1Label" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title text-black" id="modalPs1Label">Console PlayStation 1</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+                    </div>
+                    <div class="modal-body text-black">
+                        O PlayStation 1 foi lançado em 1994 pela Sony.
+                        <p>Marca o primeiro passo da Sony na indústria dos consoles, tornando-se uma lenda ao ultrapassar a marca de 100 milhões de unidades vendidas pelo mundo.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="modalPs5" tabindex="-1" aria-labelledby="modalPs5Label" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title text-black" id="modalPs5Label">Console PlayStation 5</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+                    </div>
+                    <div class="modal-body text-black">
+                        O PlayStation 5 foi lançado em novembro de 2020 pela Sony.
+                        <p>Veio equipado com um SSD ultra-rápido de fábrica, suporte a jogos em discos Blu-ray de alta capacidade e opções dedicadas inteiramente à mídia digital.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer class="text-center">
+        <p>&copy; 2026 PixelRealm 2</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>

@@ -1,0 +1,116 @@
+body {
+    background-image: url('../image/nier\ wallpaper.jpg');
+    background-repeat: repeat;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 1000px;
+    height: 120px;
+    margin: 0 auto;
+    background-color: #1a2736;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 28px;
+}
+
+nav {
+    width: 1000px;
+    height: 60px;
+    margin: 0 auto;
+    background-color: #0d1520;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    padding: 20px 25px;
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+li a:hover {
+    background-color: #2c3e50;
+}
+
+main {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #222222;
+    color: #e0e0e0;
+    overflow: hidden; /* Para conter os elementos flutuantes internos */
+}
+
+/* Coluna Principal da Esquerda */
+.conteudo-principal {
+    width: 600px;
+    float: left;
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+/* Coluna Lateral da Direita */
+aside.sidebar {
+    width: 400px;
+    float: right;
+    padding: 25px;
+    background-color: #384e56;
+    box-sizing: border-box;
+    min-height: 850px;
+}
+
+h2 {
+    color: #ffffff;
+    margin-top: 0;
+}
+
+h3 {
+    color: #a5d6a7;
+    margin-top: 0;
+}
+
+p {
+    line-height: 1.6;
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+.img-destaque {
+    max-width: 100%;
+    max-height: 350px; /* Controla a altura para não estourarem o layout */
+    width: auto;
+    display: block;
+    margin: 15px auto; /* Centraliza as imagens dentro do artigo */
+    border-radius: 4px;
+}
+
+footer {
+    width: 1000px;
+    height: 70px;
+    margin: 0 auto;
+    background-color: #111111;
+    color: #888888;
+    text-align: center;
+    line-height: 70px;
+    clear: both;
+}
