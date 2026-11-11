@@ -1,49 +1,76 @@
-# Arthur Caferro Saldanha
+<div align="center">
 
-> Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Universidade Cidade de São Paulo (UNICID) — 1º período.
+#Arthur Caferro Saldanha
 
-## Contato e Redes Sociais
+**Estudante de Análise e Desenvolvimento de Sistemas · UNICID · 1º período**
+Focado em desenvolvimento **Front-End**
 
-- 	[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:thrz77x@gmail.com)
-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thz77x)
-- [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thurr.zx2/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-saldanha-14388b433/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thrz77x@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-saldanha-14388b433/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thz77x)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thurr.zx2/)
 
-## Sobre
+</div>
 
-Atualmente, estou cursando o primeiro período de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID). Tenho interesse em atuar na área de desenvolvimento Front-End e desejo aprofundar meus conhecimentos em Python, HTML, CSS e JavaScript, buscando aprimorar minhas habilidades e ampliar minha experiência na área de tecnologia.
+---
 
-- **Habilidades técnicas:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) e ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54).
-- **Habilidades socioemocionais:** Facilidade para trabalhar em equipe, boa comunicação, proatividade, capacidade de adaptação e disposição para aprender novas tecnologias e desenvolver conhecimentos em diferentes áreas.
-- **Experiências e projetos relevantes:** projetos acadêmicos de criação de sites, interfaces web e aplicações com JavaScript.
+## 🙋‍♂️ Sobre mim
 
-## Ferramentas
+Estou no primeiro período de ADS na Universidade Cidade de São Paulo (UNICID) e quero atuar com **desenvolvimento Front-End**. Venho aprofundando meus conhecimentos em HTML, CSS, JavaScript e Python, e aprendendo na prática com projetos de sites, interfaces web e aplicações com JavaScript.
 
-- **Linguagens e tecnologias:** HTML5, CSS3, JavaScript e Bootstrap 5.
-- **Ferramentas:** ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white), ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white), GitHub e GitHub Pages.
+**Soft skills:** trabalho em equipe, boa comunicação, proatividade, adaptação e vontade de aprender novas tecnologias.
 
-## Portfólio de Projetos
+---
 
-### Desenvolvimento Front-End Para Web (2026.2)
+## 🛠️ Tecnologias e ferramentas
 
-| Projeto | Descrição | Link |
-|---|---|---|
-| **Páginas em HTML (AT1)** | Site de 5 páginas sobre NieR: Automata, desenvolvido com HTML5 e CSS3. | [Ver projeto](https://github.com/thz77x/X0) |
-| **Deploy de Site (AT2)** | Publicação do site da AT1 no GitHub Pages. | [Ver projeto](https://thz77x.github.io/X0/index.html) |
-| **Calculadora de IMC (AT3)** | Calculadora de IMC desenvolvida com HTML, CSS e JavaScript. | [Ver projeto](https://thz77x.github.io/Calculadora-imc/) |
-| **Site com Bootstrap (AT4)** | Site multipáginas PixelRealm 2, desenvolvido com Bootstrap 5. | [Ver projeto](https://thz77x.github.io/pixelrealm2/) |
-| **Front-End com IA (AT5)** | Site “A Armadilha do Propósito”, desenvolvido em dupla e copilotado com IA. | [Ver projeto](https://thz77x.github.io/Entrega-duplas/) |
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap%205-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-#### 🗃️ Modelagem de Banco de Dados
-| Projeto | Descrição | Link |
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚀 Portfólio de projetos
+
+### 💻 Desenvolvimento Front-End para Web (2026.2)
+
+| Atividade | Projeto | Descrição | Link |
+| :---: | :--- | :--- | :---: |
+| **AT1** | Páginas em HTML | Site de 5 páginas sobre NieR: Automata, feito com HTML5 e CSS3 | [Repositório](https://github.com/thz77x/X0) |
+| **AT2** | Deploy de Site | Publicação do site da AT1 no GitHub Pages | [Ver site](https://thz77x.github.io/X0/index.html) |
+| **AT3** | Calculadora de IMC | Calculadora feita com HTML, CSS e JavaScript | [Ver site](https://thz77x.github.io/Calculadora-imc/) |
+| **AT4** | PixelRealm 2 | Site multipáginas desenvolvido com Bootstrap 5 | [Ver site](https://thz77x.github.io/pixelrealm2/) |
+| **AT5** | A Armadilha do Propósito | Site feito em dupla e copilotado com IA | [Ver site](https://thz77x.github.io/Entrega-duplas/) |
+
+### 🗃️ Banco de Dados
+
+| Projeto | Descrição | Links |
 | :--- | :--- | :---: |
-| *Nome do projeto* | Documento de Requisitos, Modelagem DER e ScriptsSQL. | [Ver Projeto](https://github.com/thz77x/Kallan-dicionario-dados) |
+| **Kallan Calçados — Dicionário de Dados** | Documento de Requisitos, modelagem DER, scripts SQL e dicionário de dados interativo | [Site](https://thz77x.github.io/Kallan-dicionario-dados/) · [Repositório](https://github.com/thz77x/Kallan-dicionario-dados) |
 
-## Estrutura do Repositório
+---
 
-- `README.md` (raiz): apresentação pessoal e portfólio de projetos.
-- `AT1-Paginas-HTML/`: arquivos da atividade de páginas HTML.
-- `AT2-Deploy-de-Site/`: documentação da publicação do site.
-- `AT3-Calculadora-IMC/`: código-fonte e documentação da calculadora de IMC.
-- `AT4-Site-Multi-Paginas-Bootstrap/`: arquivos do projeto PixelRealm 2.
-- `AT5-Front-End-Copilotado-com-IA/`: arquivos do projeto A Armadilha do Propósito.
+## 📂 Estrutura do repositório
+
+```text
+portfolio-arthur-caferro-saldanha/
+├── AT1-Paginas-HTML/                       # Páginas HTML
+├── AT2-Deploy-de-Site/                     # Publicação do site
+├── AT3-Calculadora-IMC/                    # Calculadora de IMC
+├── AT4-Site-Multi-Paginas-Bootstrap/       # PixelRealm 2
+├── AT5-Front-End-Copilotado-com-IA/        # A Armadilha do Propósito
+└── README.md                               # Apresentação e portfólio
+```
+
+---
+
+<div align="center">
+
+</div>
